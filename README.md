@@ -29,7 +29,7 @@ This repository contains the **Mobile Application** component of a university ca
 ### Running the App Locally
 
 ```bash
-git clone https://github.com/votranphi/heartify
+git clone https://github.com/heartify-healthcare/heartify
 cd heartify
 npm install
 npx expo start
@@ -44,7 +44,7 @@ This app is designed to interact with a Flask-based REST API server that:
 - Loads a `.keras` model trained on cardiovascular data
 - Returns prediction results
 
-👉 Flask API Repository: [https://github.com/votranphi/heartify-api](https://github.com/votranphi/heartify-api)
+👉 Flask API Repository: [https://github.com/heartify-healthcare/heartify-api](https://github.com/heartify-healthcare/heartify-api)
 
 ## 📚 Academic Context
 
